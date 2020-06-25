@@ -1,6 +1,6 @@
-# DATACAMP DATA SCIENTIST TRACK JOURNEY
+# DATACAMP DATA SCIENTIST CAREER TRACK JOURNEY
 
-Contain the folder of :
+Consist of the folder of :
 
 - Certificates
 
