@@ -7,3 +7,6 @@ Consist of the folder of :
 - Machine learning jupyter notebook
 
 - Python practical jupyter notebook
+
+ [![DS-cer.jpg](https://i.postimg.cc/05MXMRs1/DS-cer.jpg)](https://postimg.cc/DmhPHN0x)
+
